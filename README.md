@@ -1,5 +1,4 @@
-# DataSpeak-NLP
-
+# AI Generative Chat Bot - DataSpeak
 ## Overview
 
 In this task, you will be helping DataSpeak to make a proof-of-concept model. The task is to train a machine learning model that can automatically generate answers to written questions a user inputs. For this purpose, you will train a model with Questions and Answers using the Python Questions from Stack Overflow dataset. 
